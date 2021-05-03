@@ -1,4 +1,5 @@
-# bcic
+# SmartRC
+#my very usiful app
 
 A new Flutter application.
 
